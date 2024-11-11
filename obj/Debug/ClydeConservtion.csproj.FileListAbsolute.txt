@@ -1,0 +1,7 @@
+C:\Users\Ahmed Adil\source\repos\ClydeConservtion\bin\Debug\ClydeConservtion.exe.config
+C:\Users\Ahmed Adil\source\repos\ClydeConservtion\bin\Debug\ClydeConservtion.exe
+C:\Users\Ahmed Adil\source\repos\ClydeConservtion\bin\Debug\ClydeConservtion.pdb
+C:\Users\Ahmed Adil\source\repos\ClydeConservtion\obj\Debug\ClydeConservtion.csproj.AssemblyReference.cache
+C:\Users\Ahmed Adil\source\repos\ClydeConservtion\obj\Debug\ClydeConservtion.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Adil\source\repos\ClydeConservtion\obj\Debug\ClydeConservtion.exe
+C:\Users\Ahmed Adil\source\repos\ClydeConservtion\obj\Debug\ClydeConservtion.pdb
